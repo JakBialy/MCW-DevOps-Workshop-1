@@ -11,8 +11,8 @@ on:
 env:
   resourcegroup: devops-advocacy-jakub
   containerregistry: workshopdayone.azurecr.io
-  registryusername: workshopdayone
-  imagename: workshopDayOne.azurecr.io/tailspintoys/web
+  registryusername: workshopDayOne
+  imagename: workshopdayone.azurecr.io/tailspintoys/web
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
