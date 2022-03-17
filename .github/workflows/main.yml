@@ -10,7 +10,7 @@ on:
 
 env:
   resourcegroup: devops-advocacy-jakub
-  containerregistry: workshopDayOne.azurecr.io
+  containerregistry: workshopdayone.azurecr.io
   registryusername: workshopDayOne
   imagename: workshopDayOne.azurecr.io/tailspintoys/web
   
